@@ -2,6 +2,7 @@
 6枚のテクスチャを立方体に組み合わせたキューブマップを写りこませます。
 
 ![結果画像](result.gif)
+
 https://webglstudy.github.io/11_cube_mapping/
 
 # 課題

@@ -16,3 +16,6 @@
 - 問題を解きます
 - GitHub Pages で正答したか確認しましょう
 
+# 謝辞
+今回のサンプルでは、Emil Persson, aka Humusの画像を使わせていただいています。
+http://www.humus.name
